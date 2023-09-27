@@ -1,3 +1,3 @@
 # Rock Paper Scissors
 
-Technologies used: <br />-JavScript <br />-Modern CSS <br />-Semantic HTML
+Technologies used: <br />-JavaScript <br />-Modern CSS <br />-Semantic HTML
