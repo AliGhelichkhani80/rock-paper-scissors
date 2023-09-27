@@ -1,2 +1,3 @@
-# rock-paper-scissors
-A simple game of Rock, Paper, Scissors to practice my JavaScript.
+# Rock Paper Scissors
+
+Technologies used: <br />-JavScript <br />-Modern CSS <br />-Semantic HTML
